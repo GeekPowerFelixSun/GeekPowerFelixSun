@@ -1,16 +1,22 @@
-### Hi there 👋
-
 <!--
 **GeekPowerFelixSun/GeekPowerFelixSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+# Hi，I'm [Felix](https://github.com/GeekPowerFelixSun) 👋
+
+A developer from China.
+
+- 🔭 I’m currently working on ShangHai,China
+- 🌱 I’m currently learning MicroService, Architecture, Data Analyse, .NET Core, Python .etc.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about [Notes](https://www.yuque.com/)
+- 📫 How to reach me: [Outlook](Felix.SunKJ@outlook.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Coding,Movie,Music,Badminton,Basketball,etc.
+- 🌱Languages & Tools:C#、Python、JavaScript
+
+📕 Recent Posts:
+
+
