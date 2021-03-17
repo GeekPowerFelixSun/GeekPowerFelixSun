@@ -15,8 +15,7 @@ A developer from China.
 - 📫 How to reach me: [Outlook](Felix.SunKJ@outlook.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Coding,Movie,Music,Badminton,Basketball,etc.
-- 🌱Languages & Tools:C#、Python、JavaScript
+- 📕 Languages & Tools: C#、Python、JavaScript
 
-📕 Recent Posts:
-
+⬅️ Welcome to click and follow
 
