@@ -2,8 +2,7 @@
 **GeekPowerFelixSun/GeekPowerFelixSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
-# Hi，I'm [Felix](https://github.com/GeekPowerFelixSun) 👋
+# Hi，I'm [Felix Sun](https://github.com/GeekPowerFelixSun) 👋
 
 A developer from China.
 
